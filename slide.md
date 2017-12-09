@@ -1,6 +1,5 @@
 # 最近の C++ 事情
 
-[第33回【フリースタイル】PORTもくもく会【学生歓迎！】](https://freestyle-mokumoku.connpass.com/event/68385/)  
 ([@pink_bangbi](https://twitter.com/pink_bangbi))  
 2017/10/21
 
@@ -8,6 +7,7 @@
 ---
 
 # 自己紹介
+- - -
 
 * なまえ  : おしょー
 * Twitter : [@pink_bangbi](https://twitter.com/pink_bangbi)
